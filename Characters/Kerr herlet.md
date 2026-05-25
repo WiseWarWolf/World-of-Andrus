@@ -1,0 +1,1 @@
+right hand to [[King Sheroak dutindur]] and Guardian to [[Drovana]] war/paliden

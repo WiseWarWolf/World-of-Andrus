@@ -1,0 +1,1 @@
+ [[Andrus]] is set in year 28 after the pantheon walked with the land of Andrus or the previous name suludan.

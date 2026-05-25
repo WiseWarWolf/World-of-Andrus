@@ -1,0 +1,1 @@
+daughter of [[Uriel Frostclaw]] and [[Drovana]] , works at [[Three Winds Tavern]] where people don’t know her royal status. But the tavern owner does.

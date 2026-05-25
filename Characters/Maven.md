@@ -1,0 +1,1 @@
+loves crafting weapons and armor, son of an [[Gale Oakheart]], artificer

@@ -1,0 +1,1 @@
+Druid father of [[Scorched Rivera]]

@@ -1,0 +1,1 @@
+Goddess of vengeance/blood is known as a scripter god: wife to [[Uriel Frostclaw]] has a child named [[Golda]]

@@ -1,0 +1,1 @@
+a guard that altered the mind of [[Uriel Frostclaw]] to get close to [[Drovana]] and kill her but failed and got turned in to a meat puppet
