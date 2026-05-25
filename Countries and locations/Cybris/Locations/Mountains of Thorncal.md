@@ -1,0 +1,1 @@
+A mountain carved by a heavy snow fall and thunderous landslides Contains the ancient ruins carved from stone and dirt called the Rooted Halls and also [[Gronk Ironroot (Anton’s PC)]] home 
