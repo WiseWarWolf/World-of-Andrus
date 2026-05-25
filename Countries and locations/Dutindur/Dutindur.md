@@ -1,1 +1,0 @@
-Continent in Andrus
