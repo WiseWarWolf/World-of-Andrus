@@ -46,6 +46,22 @@ Level 13 (5 SP)
 
 	•	Toad-Tiger / Max Mode — upgrades both Dogs to dire (double HP, +1d6 damage), lets you summon one 1-SP shadow as a bonus action while it’s out, and once per long rest it makes a meteor-pounce (2d10 force in a 15-ft radius, Dex save).
 
+Shadow Taming Ritual
+
+You begin with both the Divine Dog and Demon Dog already bound to you (or a shadow of the DM and player's choosing). Every other shadow must be tamed through ritual before it can be summoned.
+
+Performing the Ritual
+Before taking a long rest, you may initiate the Shadow Taming Ritual. You and any willing party members sit in a circle. After 10 minutes of channeling, all participants are transported to a pocket shadow realm — a lightless void where the target shadow waits. The ritual ends (successfully or not) before the long rest begins.
+
+The Fight
+The shadow fights at its full stat block. Your already-tamed shadows may assist you. When the target shadow is reduced to half its maximum HP it submits and is permanently added to your shadow list.
+
+Party Scaling
+Each party member beyond yourself who enters the realm makes the shadow stronger. For each additional participant: +1 to the shadow's attack rolls and saving throw DCs, and +15% to its maximum HP (rounded up). Tamed shadows that assist do not increase the difficulty.
+
+Failure
+If the party is defeated or retreats, you lose one spell slot of the highest level available and suffer disadvantage on all saving throws until your next long rest. The shadow cannot be challenged again until after that long rest.
+
 Subclass features by level
 
 	•	Lvl 3 — Shadow as Shield: reaction, a dog interposes for +2 AC against one attack.
